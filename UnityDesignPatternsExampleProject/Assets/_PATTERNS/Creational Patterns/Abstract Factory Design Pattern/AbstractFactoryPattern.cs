@@ -12,7 +12,7 @@ namespace AbstractFactory
 	public class AbstractFactoryPattern : MonoBehaviour 
 	{
 
-		void Start () 
+		void OnEnable () 
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("ABSTRACT FACTORY DESIGN PATTERN");

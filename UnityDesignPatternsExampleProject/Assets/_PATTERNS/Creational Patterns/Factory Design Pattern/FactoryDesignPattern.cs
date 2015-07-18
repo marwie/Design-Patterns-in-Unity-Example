@@ -38,10 +38,11 @@ namespace FactoryDesign
 	{
 		EnemyShipFactory factory;
 
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("FACTORY DESIGN PATTERN");
+			Debug.Log ("Use Keys U R and B in Scene)");
 			factory = new EnemyShipFactory ();
 		}
 

@@ -27,7 +27,7 @@ namespace CompositePattern
 	public class CompositeDesignPattern : MonoBehaviour
 	{
 
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("COMPOSITE DESIGN PATTERN");

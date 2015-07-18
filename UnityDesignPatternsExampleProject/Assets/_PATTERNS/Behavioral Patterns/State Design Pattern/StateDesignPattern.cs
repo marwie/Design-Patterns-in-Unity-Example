@@ -21,7 +21,7 @@ namespace StatePattern
 	public class StateDesignPattern : MonoBehaviour
 	{
 
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("STATE DESIGN PATTERN");

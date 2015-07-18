@@ -12,7 +12,7 @@ namespace PrototypePattern
 {
 	public class PrototypeDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("PROTOTYPE DESIGN PATTERN");

@@ -16,7 +16,7 @@ namespace FacadePattern
 {
 	public class FacadeDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("FACADE DESIGN PATTERN");

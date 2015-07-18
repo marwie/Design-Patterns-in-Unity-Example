@@ -20,7 +20,7 @@ namespace ProxyPattern
 	{
 
 		// Use this for initialization
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("PROXY DESIGN PATTERN");

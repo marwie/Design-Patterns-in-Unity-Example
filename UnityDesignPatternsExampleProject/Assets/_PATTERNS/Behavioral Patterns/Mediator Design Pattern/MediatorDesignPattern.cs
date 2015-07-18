@@ -22,7 +22,7 @@ namespace MediatorPattern
 {
 	public class MediatorDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("MEDIATOR DESIGN PATTERN");

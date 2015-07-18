@@ -28,7 +28,7 @@ namespace InterpreterPattern
 {
 	public class InterpreterDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("INTERPRETER DESIGN PATTERN");

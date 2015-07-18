@@ -14,7 +14,7 @@ namespace StrategyDesign
 {
 	public class StrategyDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("STRATEGY DESIGN PATTERN");

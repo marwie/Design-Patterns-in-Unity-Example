@@ -24,7 +24,7 @@ namespace BridgeDesign
 {
 	public class BridgeDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			RemoteButton tv = new TVRemoteMute(new TVDevice(1,200));
 			RemoteButton tv2 = new TVRemotePause(new TVDevice(1,200));

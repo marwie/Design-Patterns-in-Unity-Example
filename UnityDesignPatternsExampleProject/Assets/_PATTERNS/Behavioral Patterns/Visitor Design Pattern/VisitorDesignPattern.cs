@@ -17,7 +17,7 @@ namespace VisitorPattern
 {
 	public class VisitorDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("VISITOR DESIGN PATTERN");

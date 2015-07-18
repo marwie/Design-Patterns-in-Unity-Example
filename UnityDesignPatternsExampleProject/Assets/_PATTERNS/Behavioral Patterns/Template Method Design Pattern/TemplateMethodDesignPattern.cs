@@ -15,7 +15,7 @@ namespace TemplateMethodPattern
 {
 	public class TemplateMethodDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("TEMPLATE METHOD DESIGN PATTERN");

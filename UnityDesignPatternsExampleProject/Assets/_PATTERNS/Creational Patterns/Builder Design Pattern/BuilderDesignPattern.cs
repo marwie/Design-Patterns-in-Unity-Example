@@ -10,7 +10,7 @@ namespace BuilderPattern
 {
 	public class BuilderDesignPattern : MonoBehaviour
 	{
-		void Start()
+		void OnEnable()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("BUILDER DESIGN PATTERN");

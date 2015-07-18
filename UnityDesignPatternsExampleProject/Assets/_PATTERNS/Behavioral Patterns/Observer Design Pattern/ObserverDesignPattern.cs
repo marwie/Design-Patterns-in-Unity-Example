@@ -11,6 +11,9 @@ public class ObserverDesignPattern : MonoBehaviour
 	void Start () 
 	{
 		// mmh events ? 
+		Debug.Log ("------------------");
+		Debug.Log ("OBSERVER DESIGN PATTERN");
+		Debug.Log ("Not implemented yet");
 	}
 }
 

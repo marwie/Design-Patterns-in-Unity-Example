@@ -19,7 +19,7 @@ namespace IteratorPattern
 {
 	public class IteratorDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("ITERATOR DESIGN PATTERN");

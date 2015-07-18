@@ -14,7 +14,7 @@ namespace ChainOfResponsibilityDesignPattern
 {
 	public class ChainOfResponsibilityPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("CHAIN OF RESPONSIBILITY DESIGN PATTERN");

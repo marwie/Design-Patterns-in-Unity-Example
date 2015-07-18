@@ -12,7 +12,7 @@ namespace DecoratorPattern
 {
 	public class DecoratorDesignPattern : MonoBehaviour
 	{
-		void Start()
+		void OnEnable()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("DECORATOR DESIGN PATTERN");

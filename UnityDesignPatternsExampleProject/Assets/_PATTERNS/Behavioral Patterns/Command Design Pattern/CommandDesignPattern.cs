@@ -33,7 +33,7 @@ namespace CommandDesign
 {
 	public class CommandDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("COMMAND DESIGN PATTERN");

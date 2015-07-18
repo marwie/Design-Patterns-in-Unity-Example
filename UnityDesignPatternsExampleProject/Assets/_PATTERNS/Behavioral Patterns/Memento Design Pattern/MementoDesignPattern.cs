@@ -27,7 +27,7 @@ namespace MementoPattern
 
 		int savedFiles = 0, currentArticle = 0;
 
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("MEMENTO DESIGN PATTERN");

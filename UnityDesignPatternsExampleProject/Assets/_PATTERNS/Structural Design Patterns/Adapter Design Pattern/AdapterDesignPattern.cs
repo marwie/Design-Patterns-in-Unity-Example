@@ -18,7 +18,7 @@ namespace AdapterPattern
 {
 	public class AdapterDesignPattern : MonoBehaviour
 	{
-		void Start ()
+		void OnEnable ()
 		{
 			Debug.Log ("------------------");
 			Debug.Log ("ADAPTER DESIGN PATTERN");
