@@ -31,9 +31,8 @@ namespace FlyWeightPattern
 
 		void Start ()
 		{
-			
 			Debug.Log ("------------------");
-			Debug.Log ("PROXY DESIGN PATTERN");
+			Debug.Log ("FLYWEIGHT DESIGN PATTERN");
 			Debug.Log ("Not implemented yet");
 		}
 	}
