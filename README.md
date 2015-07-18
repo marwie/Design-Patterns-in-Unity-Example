@@ -4,10 +4,10 @@ This is the great video tutorial series on Design Patterns by Derek Barnas trans
 
 The whole Series is available here: https://www.youtube.com/playlist?list=PLF206E906175C7E07
 
-Patterns in this Project:
+The Project covers:
 
 
-Behavioral Patterns:
+#### Behavioral Patterns:
   * Chain Of Responsibility Design Pattern
   * Command Design Pattern
   * Interpreter Design Pattern
@@ -20,13 +20,13 @@ Behavioral Patterns:
   * Template Method Design Pattern
   * Visitor Design Pattern
 
-Creational Patterns:
+#### Creational Patterns:
   * Abstract Factory Design Pattern
   * Builder Design Pattern
   * Factory Design Pattern
   * Prototype Design Pattern
 
-Structural Design Patterns:
+#### Structural Design Patterns:
   * Adapter Design Pattern
   * Bridge Design Pattern
   * Composite Design Pattern
